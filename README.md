@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/344/php-logo.png"/>
 <img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/344/laravel.png"/>
 
-<br/>
+<br/><br/>
 
-
+### Github Stats
 ![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavochavarria&show_icons=true&theme=light)
 
