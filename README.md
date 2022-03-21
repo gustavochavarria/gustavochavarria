@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 <!-- - ⚡ Fun fact: ... -->
 
 ### Languagues and Tools
-<img align="left" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/344/css3.png" />
-<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/officel/344/react.png"/>
-<img align="left" alt="Javascript" width="26px" src="https://img.icons8.com/color/344/vue-js.png"/>
-<img align="left" alt="PHP" width="26px" src="https://img.icons8.com/officel/344/php-logo.png"/>
-<img align="left" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/344/laravel.png"/>
+<img align="left" title="HTML" alt="HTML" width="26px" src="https://img.icons8.com/color/344/html-5--v1.png" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://img.icons8.com/color/344/css3.png" />
+<img align="left" title="Javascript" alt="Javascript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img align="left" title="React" alt="React" width="26px" src="https://img.icons8.com/officel/344/react.png"/>
+<img align="left" title="Vue.js" alt="Vue.js" width="26px" src="https://img.icons8.com/color/344/vue-js.png"/>
+<img align="left" title="PHP" alt="PHP" width="26px" src="https://img.icons8.com/officel/344/php-logo.png"/>
+<img align="left" title="Laravel" alt="Laravel" width="26px" src="https://img.icons8.com/fluency/344/laravel.png"/>
 
 <br/><br/>
 
