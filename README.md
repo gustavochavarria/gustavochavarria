@@ -34,5 +34,9 @@ Here are some ideas to get you started:
 <br/><br/>
 
 ### Github Stats
-![Gustavo's github stats](https://github-readme-stats.vercel.app/api?username=gustavochavarria&show_icons=true&theme=light)
+<a href="https://github.com/gustavochavarria">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gustavochavarria&show_icons=true&theme=light&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gustavochavarria&layout=compact&langs_count=8&theme=light&count_private=true"/>
+</a>  
+
 
