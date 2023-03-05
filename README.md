@@ -9,8 +9,8 @@ I'm a software developer from Nicaragua. I develop professionally since 2017.
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Nerdify
-- 🌱 I’m currently learning React Native and Golang
+- 🔭 I’m currently working on Coderland
+- 🌱 I’m currently learning React Native
 <!-- - 👯 I’m looking to collaborate on ...  -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
